@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Transfer Amount Page</title>
+</head>
+<body>
+<h3>Please enter the amount to be transfer</h3>
+<form action="Transfer">
+<label>Amount</label>
+<input type="text" name="amt"><br><br>
+</form>
+</body>
+</html>

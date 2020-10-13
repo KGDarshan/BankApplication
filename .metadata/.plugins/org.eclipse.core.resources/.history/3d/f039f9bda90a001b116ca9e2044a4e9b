@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home Page</title>
+</head>
+<body>
+	<h1>Welcome to your account</h1>
+	<a href="Checkbalance">Click here to check balance</a><br><br>
+	<a href="ChangePwd.html">Click here to change the password</a><br><br>
+	<a href="Transfer.html">Click here to transfer amount</a><br><br>
+	<a href="GetStatement">Click here to get Statement</a><br><br>
+	<a href="ApplyLoan.html">Click here to apply for Loan</a>
+</body>
+</html>

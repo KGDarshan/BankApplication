@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Loan Page</title>
+</head>
+<body>
+
+<a href="Loan">Click here for Educational Loan</a>
+<a href="Loan">Click here for Home Loan</a>
+<a href="Loan">Click here for House Loan</a>
+<a href="Loan">Click here for Gold Loan</a>
+<a href="Loan">Click here for Marriage Loan</a>
+
+</body>
+</html>

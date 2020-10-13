@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Welcome Page</title>
+</head>
+<body>
+
+	<h3>WELCOME TO CARAVAN BANK</h3>
+	<a href="Register.html">Click here to Register</a>
+	<a href="Login.html">Click here to Login</a>
+
+</body>
+</html>

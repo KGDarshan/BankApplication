@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Loan Page</title>
+</head>
+<body>
+<h2>Select the loan for which you wiah to apply</h2>
+
+<a href="LoanSuccess.jsp">Click here for Educational Loan</a><br><br>
+<a href="LoanSuccess.jsp">Click here for Home Loan</a><br><br>
+<a href="LoanSuccess.jsp">Click here for House Loan</a><br><br>
+<a href="LoanSuccess.jsp">Click here for Gold Loan</a><br><br>
+<a href="LoanSuccess.jsp">Click here for Marriage Loan</a><br><br>
+
+</body>
+</html>

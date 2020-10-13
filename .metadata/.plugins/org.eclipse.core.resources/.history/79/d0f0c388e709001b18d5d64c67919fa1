@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>You have been successfully registered.</h1>
+	<h3>To create another account please click on the below link</h3>
+	<a href="Register.html">Click here to Re-register</a>
+</body>
+</html>

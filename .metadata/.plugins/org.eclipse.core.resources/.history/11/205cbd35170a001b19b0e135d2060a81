@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>Dear customer please enter your Details to Login</h2>
+	<form action="ChangePwd" method="post">
+		
+		<label>New Password</label>
+		<input type="password" name="npwd"><br><br>
+		
+		<label>Confirm Password</label>
+		<input type="password" name="cpwd"><br><br>
+		
+		<input type="submit">
+	</form>
+</body>
+</html>

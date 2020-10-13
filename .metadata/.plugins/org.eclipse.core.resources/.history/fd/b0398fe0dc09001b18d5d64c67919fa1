@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="Register">
+		<label>Name</label>
+		<input type="text" name="name"><br><br>
+		
+		<label>CustID</label>
+		<input type="text" name="custid"><br><br>
+		
+		<label>Accno</label>
+		<input type="text" name="accno"><br><br>
+		
+		<label>Password</label>
+		<input type="text" name="pwd"><br><br>
+		
+		<label>Balance</label>
+		<input type="text" name="bal"><br><br>
+		
+		<label>Email</label>
+		<input type="text" name="email"><br><br>
+	</form>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home Page</title>
+</head>
+<body>
+	<h1>Welcome to your account</h1>
+	<a href="Checkbalance">Click here to check balance</a>
+	<a href="ChangePwd">Click here to change the password</a>
+</body>
+</html>
